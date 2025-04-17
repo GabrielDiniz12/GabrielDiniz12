@@ -19,7 +19,7 @@ No momento graduando de **Engenharia de Software** na **Universidade de Brasíli
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=gabrielDiniz12&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz12&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
