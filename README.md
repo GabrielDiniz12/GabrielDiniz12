@@ -32,8 +32,8 @@ Estudante de **Engenharia de Software** na **Universidade de Brasília - UnB/FCT
 ### 📈 Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/GabrielDiniz12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz12&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiniz12&layout=compact&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz12&show_icons=true&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiniz12&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
